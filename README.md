@@ -1,2 +1,2 @@
 # HelloWorld
-Hello world, I am an extraterrestial committed to coding.
+Hello world. I am an extraterrestial committed to coding.
